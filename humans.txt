@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	David Holton  it.arcanum@gmail.com	@LinuxArcanum
 
 # THANKS
 
